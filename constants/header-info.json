@@ -1,0 +1,31 @@
+{
+  "offices": [
+    {
+      "id": "torun",
+      "name": "Toruń",
+      "link": "https://www.google.com/maps?q=Gdanska+20,+Toru%C5%84,+Polska"
+    },
+    {
+      "id": "warsaw",
+      "name": "Warsaw",
+      "link": "https://www.google.com/maps?q=Chmielna+73,+Warszawa,+Polska"
+    },
+    {
+      "id": "lodz",
+      "name": "Łódź",
+      "link": "https://www.google.com/maps?q=Roosevelta+10B,+%C5%81%C3%B3d%C5%BA,+Polska"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "phone",
+      "name": "Phone",
+      "link": "tel:+48514514614"
+    },
+    {
+      "id": "email",
+      "name": "E-mail",
+      "link": "mailto:spin@quantumz.io"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "subtitle": "Inteligentny Rozwój 2014-2020",
+      "title": "VeloxQ",
+      "summary": [
+        {
+          "title": "TYTUŁ PROJEKTU",
+          "description": "„VeloxQ: wykorzystanie układów dynamicznych w procesach podejmowania decyzji na podstawie wiedzy uzyskanej w procesie uczenia maszynowego, na różnych poziomach złożoności, w optymalizacji procesów przemysłowych”"
+        },
+        {
+          "title": "CEL PROJEKTU",
+          "description": "Opracowanie rozwiązań cyfrowych służących rozwiązywaniu kombinatorycznych problemów optymalizacyjnych nauczonych z danych przez systemy AI"
+        },
+        {
+          "title": "BENEFICJENT",
+          "description": "QUANTUMZ.IO Limited Liability Company"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Rozeznanie Rynku",
+          "text": "Rozeznanie rynku nr: 1/10/2023 dotyczy usługi audytu projektu pn.: „VeloxQ: wykorzystanie układów dynamicznych w procesach podejmowania decyzji na podstawie wiedzy uzyskanej w procesie uczenia maszynowego, na różnych poziomach złożoności, w optymalizacji procesów przemysłowych”, realizowanego w ramach Działania 1.1. Programu Operacyjnego Inteligentny Rozwój 2014-2020, współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego, Konkurs nr: 1/1.1.1/2022- Szybka Ścieżka. Umowa o dofinansowanie nr: POIR.01.01.01-00-0061/22-00 z dnia 11 maja 2023 roku."
+        }
+      ],
+      "attachments": [
+        {
+          "title": "Rozeznanie rynku",
+          "url": "https://quantumz.io/old/Rozeznanie%20rynku%201_10_2023%2023.10.2023.pdf"
+        },
+        {
+          "title": "Rozeznania Rynku Formularz Oferty 1",
+          "url": "https://quantumz.io/old/zalacznik_nr_1.docx"
+        },
+        {
+          "title": "Rozeznania Rynku Formularz Oferty 2",
+          "url": "https://quantumz.io/old/zalacznik_nr_2.docx"
+        },
+        {
+          "title": "Rozeznania Rynku Formularz Oferty 3",
+          "url": "https://quantumz.io/old/zalacznik_nr_3.docx"
+        }
+      ],
+      "socialMedia": [],
+      "results": [
+        {
+          "title": "",
+          "url": "https://quantumz.io/old/wynik_procedury.pdf"
+        }
+      ],
+      "banner": "/images/belka.png"
+    },
+    {
+      "id": 2,
+      "subtitle": "FENG Projekt FENG.01.01-IP.02-0625/23",
+      "title": "XaosQ",
+      "summary": [
+        {
+          "title": "TYTUŁ PROJEKTU",
+          "description": "„Dynamiczna alokacja zasobów w ekosystemach przemysłowych podatnych na perturbacje z wykorzystaniem algorytmów inspirowanych fizycznie i uczenia maszynowego”"
+        },
+        {
+          "title": "CEL PROJEKTU",
+          "description": "Opracowanie innowacyjnego narzędzia do optymalizacji zarządzania zasobami i harmonogramowania w sytuacjach dynamicznych zmian i zakłóceń."
+        },
+        {
+          "title": "BENEFICJENT",
+          "description": "QUANTUMZ.IO Spółka z ograniczoną odpowiedzialnością"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Przedmiot projektu",
+          "text": "Quantumz.io Spółka z ograniczoną odpowiedzialnością realizuje projekt pn. „Dynamiczna alokacja zasobów w ekosystemach przemysłowych podatnych na perturbacje z wykorzystaniem algorytmów inspirowanych fizycznie i uczenia maszynowego” współfinansowany ze środków Unii Europejskiej w ramach Programu Fundusze Europejskie dla Nowoczesnej Gospodarki. \nPrzedmiotem projektu jest opracowanie systemu informatycznego XaosQ do zarządzania dynamiczną alokacją zasobów w środowisku podatnym na perturbacje. Do tego celu wykorzystane zostaną algorytmy inspirowane fizycznie, w tym algorytmy kwantowe oraz metody z obszaru uczenia maszynowego. Opracowany zostanie stochastyczny model zaburzeń występujących w procesie dynamicznej alokacji zasobów i model harmonogramowania generujący stabilne rozwiązania."
+        },
+        {
+          "title": "Badania",
+          "text": [
+            "Etap 1: Budowa i symulacje stochastycznego modelu zaburzeń występujących w procesie dynamicznej alokacji zasobów.",
+            "Etap 2: Wyznaczanie miary kosztów (nie)stabilności harmonogramu.",
+            "Etap 3: Opracowanie modelu harmonogramowania generującego rozwiązania stabilne względem miar stabilności z KM2 r.",
+            "Etap 4: Opracowanie algorytmu umożliwiającego dynamiczną alokację zasobów (rescheduling) uwzględniający funkcje kosztów wraz ze wstępną implementacją.",
+            "Etap 5: Implementacja algorytmów z KM3 i KM4 wykorzystująca zasoby HPC w formie prototypu rozwiązania."
+          ]
+        },
+        {
+          "title": "Cel projektu",
+          "text": "Celem projektu jest opracowanie innowacyjnego narzędzia do optymalizacji zarządzania zasobami i harmonogramowania w sytuacjach dynamicznych zmian i zakłóceń. Wykorzystując podejścia hybrydowe, łączące technologie klasyczne i kwantowe, algorytm pozwoli przedsiębiorstwom z tych branż szybko i sprawnie reagować na zakłócenia, minimalizując ich wpływ na harmonogramy i zmniejszając efekt lawinowy. \nGrupą docelową rezultatów projektu jest branża lotnicza (aircraft scheduling problem; ASP) i transportowa (vehicle routing problem; VRP)."
+        },
+        {
+          "title": "Rezultat projektu",
+          "text": "Rezultatem projektu będzie nowa innowacyjna usługa XaosQ - dynamiczna alokacja zasobów w ekosystemach przemysłowych podatnych na perturbacje, która zmieni sposób, w jaki firmy radzą sobie z zakłóceniami, przyczyniając się do transformacji rynku docelowego. Wprowadzenie usługi na rynek przyczyni się do przewagi konkurencyjnej i wzrostu wartości rynku, przyspieszając transformację w kierunku wykorzystania zaawansowanych technologii obliczeniowych, przygotowując sektor na erę obliczeń kwantowych. XaosQ stanie się kluczowym elementem przyszłościowego zarządzania zasobami, logistyką i bezpieczeństwem cyfrowym, wpływając na przyspieszenie transformacji rynku docelowego."
+        },
+        {
+          "title": "Wartość projektu",
+          "text": "Wartość projektu: 16 136 370,00 zł \n Wartość dofinansowania: 11 728 260,00 zł"
+        }
+      ],
+      "attachments": [],
+      "results": [],
+      "socialMedia": [
+        {
+          "title": "#FunduszeUE",
+          "url": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2F%3Fkeywords%3DFunduszeUE"
+        },
+        {
+          "title": "#FunduszeEuropejskie",
+          "url": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2F%3Fkeywords%3DFunduszeEuropejskie"
+        }
+      ],
+      "banner": "/images/belka_parp.png"
+    }
+  ]
+}
