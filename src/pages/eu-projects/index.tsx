@@ -5,7 +5,7 @@ import Projects from "@/components/projects";
 
 function EUProjects(): ReactElement {
   return (
-    <div className={"w-full h-full flex justify-center items-center p-16 box-border"}>
+    <div className={"w-full h-full flex justify-center items-center px-8 py-16 md:p-16 box-border"}>
       <CustomHead pageName="EU Projects" />
       <Header/>
       <Projects />

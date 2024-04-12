@@ -42,7 +42,7 @@ const Project = ({ project }: ProjectContentProps) => {
         {project.subtitle}
       </button>
       <div
-        className={`h-fit w-3/5 pt-12 overflow-y-hidden ${showProject ? "initial" : "hidden"}`}
+        className={`h-fit w-10/12 md:w-3/5 pt-12 overflow-y-hidden ${showProject ? "initial" : "hidden"}`}
       >
         <div
           className={
