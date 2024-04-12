@@ -3,6 +3,9 @@
     margin: auto;
     width: 100%;
     height: 24px;
+    @media (max-width: 768px) {
+        display: none;
+    }
 }
 
 .triangle::before {
@@ -16,6 +19,9 @@
     border-left: 64px solid transparent;
     border-right: 64px solid transparent;
     border-bottom: 24px solid #2C2C2C;
+    @media (max-width: 768px) {
+        display: none;
+    }
 }
 .triangle::after {
     content: "";
@@ -23,11 +29,14 @@
     width: 0;
     height: 0;
     left: 50%;
-    z-index: 9; /* Make sure this is less than the z-index of ::before */
+    z-index: 9;
     transform: translateX(-50%) rotate(180deg);
-    border-left: 65px solid transparent; /* Make this slightly larger than ::before */
-    border-right: 65px solid transparent; /* Make this slightly larger than ::before */
-    border-bottom: 25px solid white; /* Make this slightly larger than ::before and choose your border color */
+    border-left: 65px solid transparent;
+    border-right: 65px solid transparent;
+    border-bottom: 25px solid white;
+    @media (max-width: 768px) {
+        display: none;
+    }
 }
 
 .hide-top-shadow {
@@ -41,7 +50,7 @@
 }
 
 .custom-shadow {
-    box-shadow: 10px 0 15px rgba(255, 255, 255, 0.15), -10px 0 15px rgba(255, 255, 255, 0.15);
+    box-shadow: 10px 0 15px rgba(0,0,0,0.5), -10px 0 15px rgba(0,0,0,0.5);
 }
 
 .custom-shadow-hover:hover {

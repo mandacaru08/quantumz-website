@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function Content(): ReactElement {
   return (
-    <section  className={"h-full w-full md:w-4/5 flex flex-col justify-center items-center"}>
+    <section  className={"h-full w-full md:w-4/5 flex flex-col justify-center items-center z-0"}>
       <Image src={"/images/quantumz-full.svg"} alt="quantumz-logo" height="940" width="940" />
       <div className={"h-10/12 w-10/12 flex flex-col justify-between items-center"}>
         <h2 className={"text-2xl lg:text-5xl font-light"}>Empowering Optimization with</h2>

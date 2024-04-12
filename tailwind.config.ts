@@ -17,8 +17,8 @@ const config: Config = {
         "primary-color": "#1E1E1E",
         "secondary-color": "#FFFFFF",
         "tertiary-color": "#2C2C2C",
-        "primary-blur-color": "#1E1E1E10",
-        "secondary-blur-color": "#FFFFFF10",
+        "primary-blur-color": "#1E1E1E25",
+        "secondary-blur-color": "#FFFFFF30",
       }
     },
   },

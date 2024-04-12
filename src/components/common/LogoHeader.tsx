@@ -7,7 +7,7 @@ type LinkPage = {
 
 const LogoHeader: React.FC<LinkPage> = ({page}) => {
   return (
-    <Link href={page}>
+    <Link href={page} className={"hidden md:block"}>
       <Image src="/images/quantumz.svg" alt="quantumz" width="32" height="32" />
     </Link>
   );

@@ -18,7 +18,7 @@ function Projects(): ReactElement {
           width="320"
           height="320"
         />
-        <h1 className={"text-5xl font-extralight"}>Eu Projects</h1>
+        <h1 className={"text-5xl font-extralight"}>EU Projects</h1>
       </div>
         <div className={"flex flex-col"}>
           {PROJECTS.projects.map((project) => {
