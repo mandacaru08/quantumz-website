@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import Header from "@/components/common/Header";
 import Content from "@/components/Content";
 import CustomHead from "@/components/common/CustomHead";
+import FlowFieldEffect from "@/components/FlowFieldEffect";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -13,6 +14,7 @@ export default function Home() {
       <CustomHead pageName={null} />
       <Header />
       <Content />
+      <FlowFieldEffect/>
     </main>
   );
 }
